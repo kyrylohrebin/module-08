@@ -1,6 +1,7 @@
 @media (min-width: 321px) {
   .header {
     background-image: url("../img/img768.png");
+    background-position: center;
   }
 }
 
@@ -79,14 +80,18 @@
   }
 }
 
+@media (min-width: 769px) {
+  .header {
+    background-image: url("../img/img1024.png");
+  }
+}
+
 @media (min-width: 1024px) {
   .container {
     width: 942px;
   }
 
   .header {
-    background-image: url("../img/img1024.png");
-    background-position: center;
     padding-bottom: 232px;
   }
 
