@@ -3,6 +3,9 @@
     background-image: url("../img/img768.png");
     background-position: center;
   }
+  .navigation {
+    margin: 0 auto;
+  }
 }
 
 @media (min-width: 600px) {
