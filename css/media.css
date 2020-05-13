@@ -1,0 +1,12 @@
+@media (min-width: 768px) {
+
+    .container {
+        width: 748px;
+        display: flex;
+        box-sizing: inherit;
+    }
+
+    .header {
+        background-image: url("../img/img768.png");
+    }
+}
