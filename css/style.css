@@ -44,7 +44,7 @@
 
 img {
   display: block;
-  min-width: 100%;
+  max-width: 100%;
 }
 
 html,
@@ -81,6 +81,7 @@ ul {
 .header {
   width: 100%;
   background-image: url("../img/img320.png");
+  background-size: cover;
   background-color: rgb(26, 25, 21);
   background-repeat: no-repeat;
   padding-top: 20px;
